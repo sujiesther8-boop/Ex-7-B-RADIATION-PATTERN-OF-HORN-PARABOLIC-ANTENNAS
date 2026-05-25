@@ -1,5 +1,5 @@
-## NAME: Krithi.V
-## REG NO: 212224060128
+## NAME: SUJITHA ESTHER S
+## REG NO: 212224060266
 ## 7-B-RADIATION-PATTERN-OF-HORN-PARABOLIC-ANTENNAS
 ## Aim:
 To measure the polar pattern and the gain of a waveguide horn antenna and parabolic antenna.
